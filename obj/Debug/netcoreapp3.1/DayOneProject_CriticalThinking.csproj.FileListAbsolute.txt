@@ -1,0 +1,13 @@
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.exe
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.deps.json
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.runtimeconfig.json
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.runtimeconfig.dev.json
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.dll
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\bin\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.pdb
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.csprojAssemblyReference.cache
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.AssemblyInfo.cs
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.dll
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.pdb
+C:\Users\james\source\repos\100DaysOfCode\DayOneProject_CriticalThinking\obj\Debug\netcoreapp3.1\DayOneProject_CriticalThinking.genruntimeconfig.cache

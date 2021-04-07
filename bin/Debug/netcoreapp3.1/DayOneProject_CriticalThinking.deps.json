@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DayOneProject_CriticalThinking/1.0.0": {
+        "runtime": {
+          "DayOneProject_CriticalThinking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DayOneProject_CriticalThinking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
